@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# bestax_flutter_app
-A reusable Flutter iOS app template for embedding React SPAs with native features.
-=======
 # Bestax Flutter App
 
 A Flutter iOS app template for embedding React SPAs with native features like authentication, navigation, and push notifications.
@@ -22,4 +18,3 @@ A Flutter iOS app template for embedding React SPAs with native features like au
 ## Customization
 - Update `lib/main.dart` to modify the UI.
 - Extend `lib/services/auth_service.dart` for custom auth logic.
->>>>>>> fc04928 (Initial flutter project for bestax_flutter_app)
